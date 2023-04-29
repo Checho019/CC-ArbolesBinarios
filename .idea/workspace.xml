@@ -4,17 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9746a934-8afc-4f67-9402-8068b682b0b5" name="Changes" comment="" />
+    <list default="true" id="9746a934-8afc-4f67-9402-8068b682b0b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trees/Arbol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/Arbol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trees/Impl/ArbolOrdenamientoB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/Impl/ArbolOrdenamientoB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trees/Impl/NodoOrdenamientoB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/Impl/NodoOrdenamientoB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trees/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trees/binary/ArbolBInario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/binary/ArbolBInario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/trees/binary/NodoBinario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/trees/binary/NodoBinario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2P5Ml7A8f3yxFE7bOxJNINdu3vK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,8 +42,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -36,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682742650505</updated>
-      <workItem from="1682742653133" duration="27000" />
+      <workItem from="1682742653133" duration="157000" />
+      <workItem from="1682769386960" duration="10719000" />
     </task>
     <servers />
   </component>
